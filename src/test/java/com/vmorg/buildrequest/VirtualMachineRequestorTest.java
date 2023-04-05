@@ -16,7 +16,7 @@ class VirtualMachineRequestorTest {
    }
 
     @Test
-    void VirtualMachineRequest(){
+    void VirtualMachineRequest (){
 
 
     }
